@@ -1,0 +1,15 @@
+E:\IT\GIT\C#\2826\seminar2\task09\obj\Debug\net6.0\task09.csproj.AssemblyReference.cache
+E:\IT\GIT\C#\2826\seminar2\task09\obj\Debug\net6.0\task09.GeneratedMSBuildEditorConfig.editorconfig
+E:\IT\GIT\C#\2826\seminar2\task09\obj\Debug\net6.0\task09.AssemblyInfoInputs.cache
+E:\IT\GIT\C#\2826\seminar2\task09\obj\Debug\net6.0\task09.AssemblyInfo.cs
+E:\IT\GIT\C#\2826\seminar2\task09\obj\Debug\net6.0\task09.csproj.CoreCompileInputs.cache
+E:\IT\GIT\C#\2826\seminar2\task09\bin\Debug\net6.0\task09.exe
+E:\IT\GIT\C#\2826\seminar2\task09\bin\Debug\net6.0\task09.deps.json
+E:\IT\GIT\C#\2826\seminar2\task09\bin\Debug\net6.0\task09.runtimeconfig.json
+E:\IT\GIT\C#\2826\seminar2\task09\bin\Debug\net6.0\task09.dll
+E:\IT\GIT\C#\2826\seminar2\task09\bin\Debug\net6.0\task09.pdb
+E:\IT\GIT\C#\2826\seminar2\task09\obj\Debug\net6.0\task09.dll
+E:\IT\GIT\C#\2826\seminar2\task09\obj\Debug\net6.0\refint\task09.dll
+E:\IT\GIT\C#\2826\seminar2\task09\obj\Debug\net6.0\task09.pdb
+E:\IT\GIT\C#\2826\seminar2\task09\obj\Debug\net6.0\task09.genruntimeconfig.cache
+E:\IT\GIT\C#\2826\seminar2\task09\obj\Debug\net6.0\ref\task09.dll
